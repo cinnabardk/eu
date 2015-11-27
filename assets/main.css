@@ -8,11 +8,44 @@ body{
 	margin-bottom: 60px;
 }
 
-.ui .message{
-	padding-top: 30px !important;
-	padding-bottom:  50px !important;
+.ui .button{
+
 }
 
-.ui .button{
-	text-transform: capitalize;
+.red{
+    color: #800000;
+}
+.bigRed{
+    font-size: 1.6em;
+    color: #800000;
+}
+.brightRed{
+    color: #AA0000;
+}
+.bigH1{
+    font-size: 1.3em;
+}
+
+.bigP{
+    font-size: 1.2em;
+}
+
+.bigP2{
+    font-size: 1.7em;
+}
+
+.smallP{
+    font-size: 0.9em;
+}
+
+p.clear {
+    clear: both;
+}
+
+#euClass {
+    text-align: center;
+}
+
+.rightFoot {
+    text-align: right;
 }
